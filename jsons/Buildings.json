@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Inf happiness",
+		"name": "neg50percent happiness",
 		"cost": 0,
 		"isNationalWonder": true,
-		"uniques": ["[-100]% Unhappiness from [Population] [in all cities]"] 
+		"uniques": ["[-50]% Unhappiness from [Population] [in all cities]"] 
 	}
 ]
